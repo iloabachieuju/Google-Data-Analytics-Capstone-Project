@@ -1,8 +1,6 @@
 ---
 title: "Bellabeat Fitness Data Analysis"
 author: "Uju Iloabachie"
-date: "`r format(Sys.time(), '%B %d %Y')`"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
